@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 52baerhaaay
+# 👋 Hi, I'm Edwin Rivera
 
 🚀 DevOps Engineer | 🛠️ Automation Enthusiast | ☁️ Cloud-Native Advocate
 
