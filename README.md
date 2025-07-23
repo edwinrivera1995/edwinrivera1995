@@ -17,23 +17,6 @@ I'm a DevOps engineer passionate about building reliable, scalable systems throu
 
 ---
 
-## 📌 Current Focus
-
-- 🔁 GitOps & Progressive Delivery
-- 🧪 Automated Testing in CI/CD pipelines
-- 🔄 Self-healing Infrastructure
-- 🧩 Kubernetes Operators & Custom Controllers
-
----
-
-## 📂 Featured Projects
-
-- 🔄 **CI/CD Templates**: Reusable pipelines for GitHub Actions & GitLab CI
-- 🏗️ **IaC Modules**: Terraform modules for AWS/GCP best practices
-- 📊 **Monitoring Stack**: Pre-configured observability stack for cloud-native workloads
-
-> Check the pinned repositories below for highlights 👇
-
 ---
 
 ## 🛠️ Tech Stack
