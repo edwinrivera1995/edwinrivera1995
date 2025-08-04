@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  ---
+
 
   ## 🔧 About Me
 
@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  ## 🧠 Core Skills & Tools
+  🧠 𝐂𝐨𝐫𝐞 𝐒𝐤𝐢𝐥𝐥𝐬 & 𝐓𝐨𝐨𝐥𝐬
 
   ### 💻 Full-Stack Development
   - **Frontend**: JavaScript, TypeScript, React, Next.js, Angular, Vue, Tailwind CSS, MUI
@@ -37,11 +37,10 @@
   - HashiCorp Vault, SOPS, Sealed Secrets
   - Git, Postman, Figma, Jira, Swagger, NGINX, Socket.IO
 
-  ---
 </div>
 
 <div>
-  ## 🧭 Values & Approach
+  🧭 Values & Approach
 
   - Clean, maintainable, and testable code
   - Automation-first and security-aware development
@@ -49,10 +48,6 @@
   - Agile team collaboration and cross-functional impact
 
   ---
-</div>
-
-<div>
-  📬 Feel free to connect or collaborate!
 </div>
 
 <div align="center">
