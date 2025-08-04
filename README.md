@@ -1,5 +1,5 @@
 <div>
-  # 👋 Hi, I'm Edwin Rivera
+  👋 Hi, I'm Edwin Rivera
 
   🚀 Senior Software Engineer | 🛠️ Full-Stack & DevOps Expert | ☁️ Cloud-Native Builder
 </div>
